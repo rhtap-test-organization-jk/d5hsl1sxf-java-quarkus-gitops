@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-bvprn.bvprn.sandbox1919.opentlc.com/rhtap/rhtap-qe-java-quarkus:jenkins-4260467f4ea33079cf67589f52ade7f9e9a3378c
+        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-bvprn.bvprn.sandbox1919.opentlc.com/rhtap/rhtap-qe-java-quarkus:jenkins-b11513a329c641df33438400666632961185a332
           name: container-image
